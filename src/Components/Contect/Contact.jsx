@@ -58,8 +58,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
-                                </div>
+                                    +9203053744981                                </div>
                             </div>
 
                             <div className="flex items-center mt-2 text-gray-600">
@@ -80,7 +79,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                   abdulrahmanbhatti677@gmail.com
                                 </div>
                             </div>
                         </div>
